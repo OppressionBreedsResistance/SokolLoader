@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RastaLoader", "RastaLoader\RastaLoader.csproj", "{7D803492-8A0D-4DA8-A72E-AF8EBD72489F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypt", "Encrypt\Encrypt.csproj", "{3A6149DD-A6D4-4DF8-87E2-4279879BCD82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D803492-8A0D-4DA8-A72E-AF8EBD72489F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D803492-8A0D-4DA8-A72E-AF8EBD72489F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D803492-8A0D-4DA8-A72E-AF8EBD72489F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D803492-8A0D-4DA8-A72E-AF8EBD72489F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6149DD-A6D4-4DF8-87E2-4279879BCD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6149DD-A6D4-4DF8-87E2-4279879BCD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6149DD-A6D4-4DF8-87E2-4279879BCD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6149DD-A6D4-4DF8-87E2-4279879BCD82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {326AFEAF-306F-49E4-8B80-068E54191E85}
+	EndGlobalSection
+EndGlobal
