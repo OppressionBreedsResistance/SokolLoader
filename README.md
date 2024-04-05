@@ -1,6 +1,5 @@
 # Usage
 1. Wygeneruj shellcode w pliku binarnym
-```
 2. Zaszyfruj wynikowy plik (np. apollo.bin) za pomocą programu Encrypt i wskaż katalog do jakiego ma zapisać pliki wynikowe
 ```
 .\Encrypt.exe C:\Users\piotr\Desktop\apollo.bin C:\Users\piotr\Desktop\
